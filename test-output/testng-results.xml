@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="168" started-at="2020-10-16T16:15:42 WAT" finished-at="2020-10-16T16:15:42 WAT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="168" started-at="2020-10-16T16:15:42 WAT" finished-at="2020-10-16T16:15:42 WAT">
+      <class name="Notch.MavenJava.RrestAssuredAPI">
+        <test-method status="PASS" signature="rrestAPI()[pri:0, instance:Notch.MavenJava.RrestAssuredAPI@481558ce]" name="rrestAPI" duration-ms="31" started-at="2020-10-16T16:15:42 WAT" finished-at="2020-10-16T16:15:42 WAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rrestAPI -->
+        <test-method status="PASS" signature="ssoapAPI()[pri:0, instance:Notch.MavenJava.RrestAssuredAPI@481558ce]" name="ssoapAPI" duration-ms="6" started-at="2020-10-16T16:15:42 WAT" finished-at="2020-10-16T16:15:42 WAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ssoapAPI -->
+      </class> <!-- Notch.MavenJava.RrestAssuredAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

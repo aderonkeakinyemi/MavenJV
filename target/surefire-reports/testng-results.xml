@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="66" started-at="2020-10-16T16:35:31Z" finished-at="2020-10-16T16:35:31Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="66" started-at="2020-10-16T16:35:31Z" finished-at="2020-10-16T16:35:31Z">
+      <class name="Notch.MavenJava.RrestAssuredAPITest">
+        <test-method status="PASS" signature="rrestAPI()[pri:0, instance:Notch.MavenJava.RrestAssuredAPITest@548a9f61]" name="rrestAPI" duration-ms="0" started-at="2020-10-16T16:35:31Z" finished-at="2020-10-16T16:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rrestAPI -->
+        <test-method status="PASS" signature="ssoapAPI()[pri:0, instance:Notch.MavenJava.RrestAssuredAPITest@548a9f61]" name="ssoapAPI" duration-ms="1" started-at="2020-10-16T16:35:31Z" finished-at="2020-10-16T16:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ssoapAPI -->
+      </class> <!-- Notch.MavenJava.RrestAssuredAPITest -->
+      <class name="Notch.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="androidApp()[pri:0, instance:Notch.MavenJava.AppiumTest@4f933fd1]" name="androidApp" duration-ms="12" started-at="2020-10-16T16:35:31Z" finished-at="2020-10-16T16:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- androidApp -->
+        <test-method status="PASS" signature="iosApp()[pri:0, instance:Notch.MavenJava.AppiumTest@4f933fd1]" name="iosApp" duration-ms="0" started-at="2020-10-16T16:35:31Z" finished-at="2020-10-16T16:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApp -->
+      </class> <!-- Notch.MavenJava.AppiumTest -->
+      <class name="Notch.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="web2Test()[pri:0, instance:Notch.MavenJava.SeleniumTest@1753acfe]" name="web2Test" duration-ms="0" started-at="2020-10-16T16:35:31Z" finished-at="2020-10-16T16:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- web2Test -->
+        <test-method status="PASS" signature="webTest()[pri:0, instance:Notch.MavenJava.SeleniumTest@1753acfe]" name="webTest" duration-ms="1" started-at="2020-10-16T16:35:31Z" finished-at="2020-10-16T16:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webTest -->
+      </class> <!-- Notch.MavenJava.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
