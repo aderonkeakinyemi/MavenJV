@@ -12,6 +12,7 @@ public class AppiumTest {
 		
 	}
 
+// https://github.com/aderonkeakinyemi/MavenJV/pull/new/develop
 	
 	@Test
 	public void iosApp() {
@@ -22,6 +23,12 @@ public class AppiumTest {
 
 	@Test
 	public void iosAppUS() {
+		System.out.println("IOS App");
+	}
+	
+
+	@Test
+	public void iosAppUSDEVELOP() {
 		System.out.println("IOS App");
 	}
 }
