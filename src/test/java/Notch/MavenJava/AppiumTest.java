@@ -9,11 +9,19 @@ public class AppiumTest {
 		System.out.println("Android App");
 		System.out.println("Update from Nigeria at 11:02");
 		
+		
 	}
 
 	
 	@Test
 	public void iosApp() {
+		System.out.println("IOS App");
+	}
+	
+	
+
+	@Test
+	public void iosAppUS() {
 		System.out.println("IOS App");
 	}
 }
