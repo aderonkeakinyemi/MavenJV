@@ -26,9 +26,17 @@ public class AppiumTest {
 		System.out.println("IOS App");
 	}
 	
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9e8307971bd1239605d91871f0b3cf1307199056
 	@Test
 	public void iosAppUSDEVELOP() {
 		System.out.println("IOS App");
 	}
+<<<<<<< HEAD
+=======
+	
+	
+>>>>>>> 9e8307971bd1239605d91871f0b3cf1307199056
 }
