@@ -7,6 +7,7 @@ public class AppiumTest {
 	public void androidApp() {
 		
 		System.out.println("Android App");
+		System.out.println("Update from Nigeria at 11:02");
 		
 	}
 
